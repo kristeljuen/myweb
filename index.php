@@ -103,7 +103,7 @@
                 </div>
 
                 <div class="col-12 col-md align-self-center">
-                    <a id="loginButton" class="btn btn-block btn-info btn-lg" role="button">Login</a>
+                    <a href ="https://samplelogin101.herokuapp.com/login.php" class="btn btn-block btn-info btn-lg" role="button">Login</a>
                 </div>
             </div>
         </div>
