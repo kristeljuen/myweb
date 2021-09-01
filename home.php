@@ -78,7 +78,7 @@
                             <ul class="navbar-nav offset-3">
                                 <li class="nav-item offset-2 active liheader"><a class="nav-link" href="#"> Home</a></li>                   
                                 <li class="nav-item offset-2 liheader"><a class="nav-link" href="#about" style="color: #9dc5c3;"> About</a></li>                    
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="shop.html" style="color: #9dc5c3;"> Shop</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="shop.php" style="color: #9dc5c3;"> Shop</a></li>                   
                                 <li class="nav-item offset-2 liheader"><a class="nav-link" href="#contact" style="color: #9dc5c3;"> Contact</a></li>           
                             </ul>                  
                         </div>
@@ -132,7 +132,7 @@
                         <hr style="width:50%; height: 5px;" >
                     </div>
                     
-                    <a href="cacsuc.html" class="btn shopbtn" role="button">Shop Collection</a>
+                    <a href="cacsuc.php" class="btn shopbtn" role="button">Shop Collection</a>
                     <div class="card-body">
                         <img src="images/suc3.jpg " width="100%">
                     </div>
@@ -146,7 +146,7 @@
                         <hr style="width:50%; height: 5px;" >
                        
                     </div>
-                    <a href="plants.html" class="btn shopbtn" role="button">Shop Collection</a>
+                    <a href="plants.php" class="btn shopbtn" role="button">Shop Collection</a>
                     <div class="card-body">
                         <img src="images/plant1.jpg" width="100%" >
                     </div>
@@ -160,7 +160,7 @@
                         <hr style="width:50%; height: 5px;" >
                     </div>
                     
-                    <a href="flower.html" class="btn shopbtn" role="button">Shop Collection</a>
+                    <a href="flower.php" class="btn shopbtn" role="button">Shop Collection</a>
                     <div class="card-body">
                         <img src="images/sunflower.jpg " width="100%">
                     </div>

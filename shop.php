@@ -106,10 +106,10 @@
                         <a class="navbar-brand mr-auto" href="#"><img src="images/logo.png"  height="100px" width="100px"  alt="mylogo"></a> <h1 class="d-none d-md-block" >Ornamental <br> Plants Store</h1>                  
                         <div class="collapse navbar-collapse" id="Navbar">                      
                             <ul class="navbar-nav offset-3">
-                                <li class="nav-item offset-2  liheader"><a class="nav-link" href="home.html"> Home</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html #about" > About</a></li>                    
-                                <li class="nav-item offset-2 active liheader"><a class="nav-link" href="shop.html" > Shop</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html #contact" > Contact</a></li>           
+                                <li class="nav-item offset-2  liheader"><a class="nav-link" href="home.php"> Home</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #about" > About</a></li>                    
+                                <li class="nav-item offset-2 active liheader"><a class="nav-link" href="shop.php" > Shop</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #contact" > Contact</a></li>           
                             </ul>                  
                         </div>
                     </nav>
@@ -136,9 +136,9 @@
                 <aside class="sidebar-categorie">
                     <h3 class="sidebar-title">Categories</h3><hr>
                     <ul class="navbar-nav" style="font-size: 17px;">
-                        <li class="nav-item"><a class="nav-link" href="cacsuc.html">Cacti and Succulents <span class="ctgspan">(5)</span></a></li>
-                        <li class="nav-item"><a class="nav-link" href="plants.html">Indoor/Outdoor Plants<span class="ctgspan">(3)</span></a></li>
-                        <li class="nav-item"><a class="nav-link" href="flower.html">Flowers<span class="ctgspan">(3)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="cacsuc.php">Cacti and Succulents <span class="ctgspan">(5)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="plants.php">Indoor/Outdoor Plants<span class="ctgspan">(3)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="flower.php">Flowers<span class="ctgspan">(3)</span></a></li>
                     </ul><br>
                 </aside>
             </div>
@@ -964,9 +964,9 @@
             <ul class="pagination justify-content-center">
                 <li class=" page-item disabled"><a class="page-link" href="#" tabindex="-1">&laquo;</a></li>
                 <li class=" page-item active"><a class="page-link" href="#">1</a></li>
-                <li class=" page-item"><a class="page-link" href="cacsuc.html">2</a></li>
-                <li class=" page-item"><a class="page-link" href="flower.html">3</a></li>
-                <li class=" page-item"><a class="page-link" href="cacsuc.html">&raquo;</a></li>
+                <li class=" page-item"><a class="page-link" href="cacsuc.php">2</a></li>
+                <li class=" page-item"><a class="page-link" href="flower.php">3</a></li>
+                <li class=" page-item"><a class="page-link" href="cacsuc.php">&raquo;</a></li>
             </ul>
         </nav>
     </div>

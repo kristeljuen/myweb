@@ -107,10 +107,10 @@
                         <a class="navbar-brand mr-auto" href="#"><img src="./images/logo.png" alt="Ornamental Plants Logo"></a> <h1 class="d-none d-md-block ml-2">Ornamental <br> Plants Store</h1>                  
                         <div class="collapse navbar-collapse" id="Navbar">                      
                             <ul class="navbar-nav offset-3">
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html" style="color: #9dc5c3;"> Home</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html #about" style="color: #9dc5c3;"> About</a></li>                    
-                                <li class="nav-item offset-2 active liheader"><a class="nav-link" href="shop.html"> Shop</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html #contact" style="color: #9dc5c3;"> Contact</a></li>           
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php" style="color: #9dc5c3;"> Home</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #about" style="color: #9dc5c3;"> About</a></li>                    
+                                <li class="nav-item offset-2 active liheader"><a class="nav-link" href="shop.php"> Shop</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #contact" style="color: #9dc5c3;"> Contact</a></li>           
                             </ul>                  
                         </div>
                     </nav>
@@ -138,8 +138,8 @@
                     <h3 class="sidebar-title">Categories</h3><hr>
                     <ul class="navbar-nav" style="font-size: 17px;">
                         <li class="nav-item active"><a class="nav-link sidebaractive" href="#">Cacti and Succulents <span class="right">(5)</span></a></li>
-                        <li class="nav-item"><a class="nav-link" href="plants.html">Indoor/Outdoor Plants<span class="right">(3)</span></a></li>
-                        <li class="nav-item"><a class="nav-link" href="flower.html">Flowers<span class="right">(3)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="plants.php">Indoor/Outdoor Plants<span class="right">(3)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="flower.php">Flowers<span class="right">(3)</span></a></li>
                     </ul><br>
                 </aside>
             </div>
@@ -198,8 +198,8 @@
             <div class="col-12">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="shop.html">Shop</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="shop.php">Shop</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Cacti and Succulents</li>
                     </ol>
                 </nav>
@@ -443,11 +443,11 @@
     <div class="col-12"  style="display: inline-block; margin-top: 20px; right: 30px;">
         <nav class="float-sm-right" aria-label="Page navigation">
             <ul class="pagination justify-content-center">
-                <li class=" page-item"><a class="page-link" href="shop.html" tabindex="-1">&laquo;</a></li>
-                <li class=" page-item "><a class="page-link" href="shop.html">1</a></li>
+                <li class=" page-item"><a class="page-link" href="shop.php" tabindex="-1">&laquo;</a></li>
+                <li class=" page-item "><a class="page-link" href="shop.php">1</a></li>
                 <li class=" page-item active"><a class="page-link" href="#">2</a></li>
-                <li class=" page-item"><a class="page-link" href="flower.html">3</a></li>
-                <li class=" page-item"><a class="page-link" href="flower.html">&raquo;</a></li>
+                <li class=" page-item"><a class="page-link" href="flower.php">3</a></li>
+                <li class=" page-item"><a class="page-link" href="flower.php">&raquo;</a></li>
             </ul>
         </nav>
     </div>

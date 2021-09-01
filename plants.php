@@ -107,10 +107,10 @@
                         <a class="navbar-brand mr-auto" href="#"><img src="./images/d.png" height="100px" width="100px" alt="mpslogo"></a> <h1 class="d-none d-md-block ml-2">Ornamental <br> Plants Store</h1>                  
                         <div class="collapse navbar-collapse" id="Navbar">                      
                             <ul class="navbar-nav offset-3">
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html" style="color: #9dc5c3;"> Home</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html #about" style="color: #9dc5c3;"> About</a></li>                    
-                                <li class="nav-item active offset-2 liheader"><a class="nav-link" href="shop.html"> Shop</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.html #contact" style="color: #9dc5c3;"> Contact</a></li>           
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php" style="color: #9dc5c3;"> Home</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #about" style="color: #9dc5c3;"> About</a></li>                    
+                                <li class="nav-item active offset-2 liheader"><a class="nav-link" href="shop.php"> Shop</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #contact" style="color: #9dc5c3;"> Contact</a></li>           
                             </ul>                  
                         </div>
                     </nav>
@@ -137,9 +137,9 @@
                 <aside class="sidebar-categorie">
                     <h3 class="sidebar-title">Categories</h3><hr>
                     <ul class="navbar-nav" style="font-size: 17px;">
-                        <li class="nav-item"><a class="nav-link" href="#">Cacti and Succulents <span class="right">(5)</span></a></li>
-                        <li class="nav-item"><a class="nav-link" href="plants.html">Indoor/Outdoor Plants<span class="right">(3)</span></a></li>
-                        <li class="nav-item active"><a class="nav-link sidebaractive" href="flower.html">Flowers<span class="right">(3)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="cacsuc.php">Cacti and Succulents <span class="right">(5)</span></a></li>
+                        <li class="nav-item active"><a class="nav-link sidebaractive" href="#">Indoor/Outdoor Plants<span class="right">(3)</span></a></li>
+                        <li class="nav-item"><a class="nav-link" href="flower.php">Flowers<span class="right">(3)</span></a></li>
                     </ul><br>
                 </aside>
             </div>
@@ -181,14 +181,14 @@
             </aside>
             
             
-           <!--Certificates-->
-           <aside class="sidebar-certificates">
-            <h3 class="sidebar-title">Certificates & Resume</h3><hr>
-            <a class="nav-link" href="certificates/html5.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/q.png" style=" height: 50px; width: 50px;" title="HTML 5"></a>
-            <a class="nav-link" href="certificates/css3.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/s.png" style=" height: 50px; width: 50px;" title="CSS 3"></a>
-            <a class="nav-link" href="certificates/java.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/as.png" style=" height: 50px; width: 50px;" title="JAVA"></a>
-            <a class="nav-link" href="certificates/bootstrap4.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/r.png" style="height: 50px; width: 50px;" title="Bootstrap 4"></a>
-            <a class="nav-link" href="certificates/resume.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/a.png" style="height: 50px; width: 50px;" title="Resume"></a>
+            <!--Certificates-->
+            <aside class="sidebar-certificates">
+                <h3 class="sidebar-title">Certificates & Resume</h3><hr>
+                <a class="nav-link" href="certificates/html5.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/q.png" style=" height: 50px; width: 50px;" title="HTML 5"></a>
+                <a class="nav-link" href="certificates/css3.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/s.png" style=" height: 50px; width: 50px;" title="CSS 3"></a>
+                <a class="nav-link" href="certificates/java.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/as.png" style=" height: 50px; width: 50px;" title="JAVA"></a>
+                <a class="nav-link" href="certificates/bootstrap4.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/r.png" style="height: 50px; width: 50px;" title="Bootstrap 4"></a>
+                <a class="nav-link" href="certificates/resume.pdf" target="_blank" download type="button"  style="display: inline-block;" ><img src="certificates/a.png" style="height: 50px; width: 50px;" title="Resume"></a>
             </aside>
             <br>
         </div>
@@ -198,9 +198,9 @@
             <div class="col-12">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="shop.html">Shop</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Flowers</li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="shop.php">Shop</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Indoor/Outdoor Plants</li>
                     </ol>
                 </nav>
             </div><br>
@@ -962,17 +962,17 @@
             </div>
             <!--End Modal-->
         </div>
-    </div>
+        </div>
     </div>
 
     <div class="col-12"  style="display: inline-block; margin-top: 20px; right: 30px;">
         <nav class="float-sm-right" aria-label="Page navigation">
             <ul class="pagination justify-content-center">
-                <li class=" page-item"><a class="page-link" href="cacsuc.html" tabindex="-1">&laquo;</a></li>
-                <li class=" page-item"><a class="page-link" href="shop.html">1</a></li>
-                <li class=" page-item"><a class="page-link" href="cacsuc.html">2</a></li>
-                <li class=" page-item active"><a class="page-link" href="#">3</a></li>
-                <li class=" page-item disabled"><a class="page-link" href="#">&raquo;</a></li>
+                <li class=" page-item disabled"><a class="page-link" href="#" tabindex="-1">&laquo;</a></li>
+                <li class=" page-item active"><a class="page-link" href="#">1</a></li>
+                <li class=" page-item"><a class="page-link" href="cacsuc.php">2</a></li>
+                <li class=" page-item"><a class="page-link" href="flower.php">3</a></li>
+                <li class=" page-item"><a class="page-link" href="cacsuc.php">&raquo;</a></li>
             </ul>
         </nav>
     </div>
