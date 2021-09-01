@@ -107,10 +107,10 @@
                         <a class="navbar-brand mr-auto" href="#"><img src="./images/d.png" height="100px" width="100px" alt="mpslogo"></a> <h1 class="d-none d-md-block ml-2">Ornamental <br> Plants Store</h1>                  
                         <div class="collapse navbar-collapse" id="Navbar">                      
                             <ul class="navbar-nav offset-3">
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php" style="color: #9dc5c3;"> Home</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #about" style="color: #9dc5c3;"> About</a></li>                    
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="index.php" style="color: #9dc5c3;"> Home</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="index.php #about" style="color: #9dc5c3;"> About</a></li>                    
                                 <li class="nav-item active offset-2 liheader"><a class="nav-link" href="shop.php"> Shop</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #contact" style="color: #9dc5c3;"> Contact</a></li>           
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="index.php #contact" style="color: #9dc5c3;"> Contact</a></li>           
                             </ul>                  
                         </div>
                     </nav>

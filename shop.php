@@ -106,10 +106,10 @@
                         <a class="navbar-brand mr-auto" href="#"><img src="images/logo.png"  height="100px" width="100px"  alt="mylogo"></a> <h1 class="d-none d-md-block" >Ornamental <br> Plants Store</h1>                  
                         <div class="collapse navbar-collapse" id="Navbar">                      
                             <ul class="navbar-nav offset-3">
-                                <li class="nav-item offset-2  liheader"><a class="nav-link" href="home.php"> Home</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #about" > About</a></li>                    
+                                <li class="nav-item offset-2  liheader"><a class="nav-link" href="index.php"> Home</a></li>                   
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="index.php #about" > About</a></li>                    
                                 <li class="nav-item offset-2 active liheader"><a class="nav-link" href="shop.php" > Shop</a></li>                   
-                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="home.php #contact" > Contact</a></li>           
+                                <li class="nav-item offset-2 liheader"><a class="nav-link" href="index.php #contact" > Contact</a></li>           
                             </ul>                  
                         </div>
                     </nav>
