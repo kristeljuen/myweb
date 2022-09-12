@@ -17,7 +17,7 @@
     <!--Icon/logo-->
     <link rel="icon" href="images/logo.png" type="image/x-icon">
 
-    <title>Ornamental Plants Here</title>
+    <title>Ornamental Plants sHere</title>
 </head>
 
 <body>
